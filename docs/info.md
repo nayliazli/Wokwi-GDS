@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-AND, OR and NOT gates are connected to input a, input b and input c.
+AND, OR and NOT gates are connected to input b, input c and input a.
 
 ## How to test
 
